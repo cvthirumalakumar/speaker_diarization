@@ -4,7 +4,7 @@ This repository contains code to evaluate dataset using publicly available speak
 
 ## Data preparation
 
-1. First (PriMock57)[https://github.com/babylonhealth/primock57] dataset has to be downloaded and processed for evaluation.
+1. First [PriMock57](https://github.com/babylonhealth/primock57) dataset has to be downloaded and processed for evaluation.
 2. Follow below steps for downloading and preprocessing.
 
 ```bash
